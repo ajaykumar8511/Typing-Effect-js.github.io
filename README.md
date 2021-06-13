@@ -18,6 +18,6 @@
 
 [<img align="left" alt="typing_effect | live" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[website]:https://ajaykumar8511.github.io/typing-effect-js.github.io/
+[website]:https://ajaykumar8511.github.io/Typing-Effect-js.github.io/
 
 
